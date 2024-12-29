@@ -4,6 +4,7 @@ This repository provides an implementation of image captioning using the BLIP-2 
 
 ## Acknowledgments
 This project uses the BLIP-2 model from the [Hugging Face Transformers](https://huggingface.co/docs/transformers/main/model_doc/blip-2) library. Special thanks to the research team behind BLIP-2 for their groundbreaking work.
+Dataset Used is https://www.kaggle.com/datasets/williamscott701/memotion-dataset-7k
 
 ## Contributing
 Contributions are welcome! Feel free to:
